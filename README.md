@@ -1,17 +1,9 @@
 # Quantum-Agentic Robotics & Low-Latency Defence Architecture
 
 An open-source, unhackable, and hyper-affordable decentralized robotic ecosystem designed for real-time tactical protection, civilian security, and multi-agent orchestration.
+This ecosystem integrates AI cognitive intelligence, atomic-level determinism, and ultra-low latency hardware routing into a single cohesive platform. By shifting from vulnerable software stacks to pure hardware execution, the system delivers real-time defense capabilities at the price point of a standard commercial automobile.
 
 ---
-
-## 🌌 Unified System Architecture
-This ecosystem integrates AI cognitive intelligence, atomic-level determinism, and ultra-low latency hardware routing into a single cohesive platform. By shifting from vulnerable software stacks to pure hardware execution, the system delivers real-time defense capabilities at the price point of a standard commercial automobile.
-graph TD
-    A[AI Cognitive Intelligence / Multi-Agent) -->|0.002ms Latency Bus| B(Xilinx FPGA Hardware Register Routing)
-    B --> C{Immutable Storage Layer}
-    C -->|Unhackable| D[Atomic-State Memory Configurations]
-    B --> E[Physical Execution / Tactical Defense Car]
-    ---
 
 ## 🛠️ Integrated Core Pillars
 
