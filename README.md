@@ -5,7 +5,6 @@ An open-source, unhackable, and hyper-affordable decentralized robotic ecosystem
 ---
 
 ## 🌌 Unified System Architecture
-
 This ecosystem integrates AI cognitive intelligence, atomic-level determinism, and ultra-low latency hardware routing into a single cohesive platform. By shifting from vulnerable software stacks to pure hardware execution, the system delivers real-time defense capabilities at the price point of a standard commercial automobile.
 graph TD
     A[AI Cognitive Intelligence / Multi-Agent) -->|0.002ms Latency Bus| B(Xilinx FPGA Hardware Register Routing)
